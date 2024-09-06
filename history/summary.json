@@ -1,22 +1,22 @@
 [
   {
     "name": "Personal site",
-    "url": "https://www.manudevloo.com.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.manudevloo.com.com.ico",
+    "url": "https://www.manudevloo.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.manudevloo.com.ico",
     "slug": "personal-site",
     "status": "down",
-    "uptime": "0.64%",
-    "uptimeDay": "0.64%",
-    "uptimeWeek": "0.64%",
-    "uptimeMonth": "0.64%",
-    "uptimeYear": "0.64%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 92,
+    "timeDay": 92,
+    "timeWeek": 92,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-09-06": 0
+      "2024-09-06": 4
     }
   }
 ]
