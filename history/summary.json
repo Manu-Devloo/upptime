@@ -77,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/torrent.manudevloo.com.ico",
     "slug": "q-bittorrent",
     "status": "up",
-    "uptime": "4.44%",
-    "uptimeDay": "4.44%",
-    "uptimeWeek": "4.44%",
-    "uptimeMonth": "4.44%",
-    "uptimeYear": "4.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 86,
     "timeDay": 86,
     "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
-    "dailyMinutesDown": {
-      "2024-09-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Open webui",
@@ -97,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.manudevloo.com.ico",
     "slug": "open-webui",
     "status": "up",
-    "uptime": "3.75%",
-    "uptimeDay": "3.75%",
-    "uptimeWeek": "3.75%",
-    "uptimeMonth": "3.75%",
-    "uptimeYear": "3.75%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 84,
     "timeDay": 84,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2024-09-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Audiobookshelf",
@@ -117,19 +113,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/audiobookshelf.manudevloo.com.ico",
     "slug": "audiobookshelf",
     "status": "up",
-    "uptime": "3.05%",
-    "uptimeDay": "3.05%",
-    "uptimeWeek": "3.05%",
-    "uptimeMonth": "3.05%",
-    "uptimeYear": "3.05%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 79,
     "timeWeek": 79,
     "timeMonth": 79,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2024-09-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Books",
@@ -137,19 +131,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/books.manudevloo.com.ico",
     "slug": "books",
     "status": "up",
-    "uptime": "2.60%",
-    "uptimeDay": "2.60%",
-    "uptimeWeek": "2.60%",
-    "uptimeMonth": "2.60%",
-    "uptimeYear": "2.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 60,
     "timeDay": 60,
     "timeWeek": 60,
     "timeMonth": 60,
     "timeYear": 60,
-    "dailyMinutesDown": {
-      "2024-09-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "File manager",
@@ -157,19 +149,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/file.manudevloo.com.ico",
     "slug": "file-manager",
     "status": "up",
-    "uptime": "2.17%",
-    "uptimeDay": "2.17%",
-    "uptimeWeek": "2.17%",
-    "uptimeMonth": "2.17%",
-    "uptimeYear": "2.17%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 79,
     "timeDay": 79,
     "timeWeek": 79,
     "timeMonth": 79,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2024-09-06": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -177,18 +167,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/flame.manudevloo.com.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "1.40%",
-    "uptimeDay": "1.40%",
-    "uptimeWeek": "1.40%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "1.40%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 76,
     "timeDay": 76,
     "timeWeek": 76,
     "timeMonth": 76,
     "timeYear": 76,
-    "dailyMinutesDown": {
-      "2024-09-06": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
