@@ -5,6 +5,24 @@ repo: upptime # The name of this repository
 sites:
   - name: Personal site
     url: https://www.manudevloo.com
+  - name: Immich
+    url: https://immich.manudevloo.com
+  - name: Nextcloud
+    url: https://nextcloud.manudevloo.com
+  - name: Jellyfin
+    url: https://jellyfin.manudevloo.com
+  - name: QBittorrent
+    url: https://torrent.manudevloo.com
+  - name: Open webui
+    url: https://chat.manudevloo.com
+  - name: Audiobookshelf
+    url: https://audiobookshelf.manudevloo.com
+  - name: Books
+    url: https://books.manudevloo.com
+  - name: File manager
+    url: https://file.manudevloo.com
+  - name: Dashboard
+    url: https://flame.manudevloo.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
