@@ -22,9 +22,9 @@
     "url": "https://immich.manudevloo.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.manudevloo.com.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 453,
     "timeMonth": 453,
     "timeYear": 453,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Nextcloud",
     "url": "https://nextcloud.manudevloo.com",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.manudevloo.com.ico",
     "slug": "nextcloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,14 +53,16 @@
     "timeWeek": 836,
     "timeMonth": 836,
     "timeYear": 836,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jellyfin.manudevloo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.manudevloo.com.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 590,
     "timeMonth": 590,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-12": 0
+    }
   },
   {
     "name": "QBittorrent",
