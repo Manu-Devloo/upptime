@@ -83,19 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/request.manudevloo.com.ico",
     "slug": "jellyseer",
     "status": "up",
-    "uptime": "4.15%",
-    "uptimeDay": "4.15%",
-    "uptimeWeek": "4.15%",
-    "uptimeMonth": "4.15%",
-    "uptimeYear": "4.15%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 225,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
-    "dailyMinutesDown": {
-      "2024-09-14": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "QBittorrent",
