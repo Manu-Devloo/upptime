@@ -5,8 +5,6 @@ repo: upptime # The name of this repository
 sites:
   - name: Personal site
     url: https://www.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: Immich
     url: https://immich.manudevloo.com
   - name: Nextcloud
@@ -15,32 +13,18 @@ sites:
     url: https://jellyfin.manudevloo.com
   - name: Jellyseer
     url: https://request.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: QBittorrent
     url: https://torrent.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: Open webui
     url: https://chat.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: Audiobookshelf
     url: https://audiobookshelf.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: Books
     url: https://books.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: File manager
     url: https://file.manudevloo.com
-    expectedStatusCodes:
-      - 403
   - name: Dashboard
     url: https://flame.manudevloo.com
-    expectedStatusCodes:
-      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
