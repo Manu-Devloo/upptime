@@ -1,7 +1,7 @@
 url: https://jellyfin.manudevloo.com
-status: down
-code: 502
-responseTime: 574
-lastUpdated: 2024-10-01T22:05:17.673Z
+status: up
+code: 200
+responseTime: 781
+lastUpdated: 2024-10-01T22:29:16.778Z
 startTime: 2024-09-06T06:53:58.255Z
 generator: Upptime <https://github.com/upptime/upptime>
