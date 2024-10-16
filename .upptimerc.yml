@@ -11,7 +11,7 @@ sites:
     url: https://nextcloud.manudevloo.com
   - name: Jellyfin
     url: https://jellyfin.manudevloo.com
-  - name: Jellyseer
+  - name: Overseer
     url: https://request.manudevloo.com
   - name: QBittorrent
     url: https://torrent.manudevloo.com
