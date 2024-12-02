@@ -9,16 +9,14 @@ sites:
     url: https://immich.manudevloo.com
   - name: Nextcloud
     url: https://nextcloud.manudevloo.com
-  - name: Jellyfin
-    url: https://jellyfin.manudevloo.com
+  # - name: Jellyfin
+  #   url: https://jellyfin.manudevloo.com
   - name: Overseer
     url: https://request.manudevloo.com
   - name: QBittorrent
     url: https://torrent.manudevloo.com
   - name: Open webui
     url: https://chat.manudevloo.com
-  - name: Audiobookshelf
-    url: https://audiobookshelf.manudevloo.com
   - name: Books
     url: https://books.manudevloo.com
   - name: File manager
