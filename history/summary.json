@@ -4,19 +4,19 @@
     "url": "https://www.manudevloo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.manudevloo.com.ico",
     "slug": "personal-site",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 2194,
-    "timeWeek": 755,
-    "timeMonth": 440,
+    "timeDay": 1544,
+    "timeWeek": 698,
+    "timeMonth": 434,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-06-19": 0
+      "2025-06-19": 14
     }
   },
   {
@@ -325,7 +325,7 @@
     "uptime": "89.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "20.62%",
+    "uptimeMonth": "20.59%",
     "uptimeYear": "89.57%",
     "time": 574,
     "timeDay": 434,
@@ -333,7 +333,7 @@
     "timeMonth": 534,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-06-19": 1410,
+      "2025-06-19": 1424,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
@@ -479,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-06-19": 1410,
+      "2025-06-19": 1424,
       "2025-06-18": 1440,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
