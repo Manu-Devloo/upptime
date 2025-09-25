@@ -1,7 +1,7 @@
 url: https://nextcloud.manudevloo.com
-status: up
-code: 200
-responseTime: 1190
-lastUpdated: 2025-09-24T23:09:07.454Z
+status: down
+code: 502
+responseTime: 450
+lastUpdated: 2025-09-25T22:08:59.499Z
 startTime: 2024-09-06T06:53:56.838Z
 generator: Upptime <https://github.com/upptime/upptime>
