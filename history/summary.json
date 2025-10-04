@@ -6,17 +6,17 @@
     "slug": "personal-site",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 4772,
-    "timeWeek": 2193,
-    "timeMonth": 789,
-    "timeYear": 334,
+    "time": 328,
+    "timeDay": 3296,
+    "timeWeek": 2274,
+    "timeMonth": 903,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-10-04": 0
+      "2025-10-04": 11
     }
   },
   {
@@ -349,7 +349,7 @@
     "timeMonth": 469,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2025-10-04": 928,
+      "2025-10-04": 939,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -544,7 +544,7 @@
     "timeMonth": 460,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2025-10-04": 928,
+      "2025-10-04": 939,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
@@ -667,14 +667,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "31.82%",
+    "uptimeYear": "31.81%",
     "time": 736,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2025-10-04": 928,
+      "2025-10-04": 939,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
