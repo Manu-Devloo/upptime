@@ -24,7 +24,7 @@ sites:
   - name: Dashboard
     url: https://flame.manudevloo.com
   - name: Plex
-    url: https://www.plex.manudevloo.com
+    url: https://plex.manudevloo.com
   - name: Github
     url: https://www.github.com
 
