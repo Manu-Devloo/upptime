@@ -2,6 +2,15 @@
 owner: Manu-Devloo # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+workflowSchedule:
+  uptime: "2/5 * * * *"
+  responseTime: "23 23 * * *"
+  graphs: "17 0 * * *"
+  summary: "37 0 * * *"
+  staticSite: "47 1 * * *"
+  updateTemplate: "17 2 * * *"
+  updates: "13 3 * * *"
+
 sites:
   - name: Personal site
     url: https://www.manudevloo.com
